@@ -7,5 +7,5 @@
 * type 'rails db:migrate'
 * type 'rails s -p 3001'
 * cd into frontend
-* run 'npm run'
+* run 'npm start'
 
